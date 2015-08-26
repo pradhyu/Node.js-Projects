@@ -1,0 +1,1 @@
+This is a folder with the dockers files to create/build a dockers environment to play with node.js in windows
